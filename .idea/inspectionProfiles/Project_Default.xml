@@ -1,0 +1,67 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="EditorConfigCharClassLetterRedundancy" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigCharClassRedundancy" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigDeprecatedDescriptor" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigEmptySection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigHeaderUniqueness" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigKeyCorrectness" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigNoMatchingFiles" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigNumerousWildcards" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigOptionRedundancy" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigPartialOverride" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigPatternRedundancy" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigShadowedOption" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigShadowingOption" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigSpaceInHeader" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigUnusedDeclaration" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigWildcardRedundancy" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="3.5" />
+            <item index="1" class="java.lang.String" itemvalue="3.6" />
+            <item index="2" class="java.lang.String" itemvalue="3.7" />
+            <item index="3" class="java.lang.String" itemvalue="3.8" />
+            <item index="4" class="java.lang.String" itemvalue="3.9" />
+            <item index="5" class="java.lang.String" itemvalue="3.10" />
+            <item index="6" class="java.lang.String" itemvalue="3.11" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyInconsistentIndentationInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="pytorch" />
+            <item index="1" class="java.lang.String" itemvalue="pandas" />
+            <item index="2" class="java.lang.String" itemvalue="scipy" />
+            <item index="3" class="java.lang.String" itemvalue="python" />
+            <item index="4" class="java.lang.String" itemvalue="cython" />
+            <item index="5" class="java.lang.String" itemvalue="numpy" />
+            <item index="6" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="7" class="java.lang.String" itemvalue="tqdm" />
+            <item index="8" class="java.lang.String" itemvalue="transformers" />
+            <item index="9" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="10" class="java.lang.String" itemvalue="simpletransformers" />
+            <item index="11" class="java.lang.String" itemvalue="torch" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
